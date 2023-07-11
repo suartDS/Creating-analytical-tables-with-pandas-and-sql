@@ -27,8 +27,7 @@ To work with **SQL_Creating_analytical_tables.ipynb** you must have a local Post
 access to Postgres via a url like - postgresql://user:user_pass@db:5432/ from jupyterlab
 
 How to deploy JupyterLab and Postgres locally you can see here -
-
-[Docker JupyterLab and Postgres]: https://github.com/suartDS/docker-for-ds
+* [Docker JupyterLab and Postgres](https://github.com/suartDS/docker-for-ds)
 
 ### Packages used:
 * pandas
