@@ -24,12 +24,14 @@ The examples show how to get important information for sales about user from raw
 
 ## How to install
 To work with **SQL_Creating_analytical_tables.ipynb** you must have a local Postgres installation deployed or
-access to Postgres via a url like - postgresql://user:user_pass@db:5432/
+access to Postgres via a url like - postgresql://user:user_pass@db:5432/ from jupyterlab
+
+How to deploy postgres locally you can see here
+[Docker JupyterLab and Postgres]: https://github.com/suartDS/docker-for-ds
 
 ### Packages used:
 * pandas
 * numpy
-* datetime
 * matplotlib
 * plotly
 * sqlalchemy
